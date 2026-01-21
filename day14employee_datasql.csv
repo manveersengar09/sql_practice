@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,department,salary,joining_date,age
+1,Joshua,Ramos,Operations,65313.8,23-05-2024,42
+2,Christina,Clark,IT,58827.32,02-10-2021,46
+3,Jonathan,Sullivan,Operations,57427.31,30-04-2020,50
+4,Clinton,Aguirre,HR,45352.74,04-04-2021,55
+5,Veronica,Weber,Operations,78772.56,06-10-2020,51
+6,Louis,Rivera,Finance,30448.72,05-05-2020,41
+7,Sabrina,Gonzalez,Marketing,88476.72,15-10-2020,48
+8,Jillian,Lewis,Marketing,49895.55,08-06-2021,33
+9,Caroline,Kennedy,Finance,88878.64,17-07-2024,47
+10,Adam,Sanchez,HR,88331.24,23-03-2020,38
+11,Sara,Miller,Marketing,68588.45,21-07-2020,26
+12,Hannah,Carrillo,Operations,82047.41,13-05-2024,59
+13,Elizabeth,Johnson,IT,83585.45,11-12-2023,27
+14,Victor,Lamb,Finance,55038.09,29-10-2024,56
+15,Tammy,Collins,HR,39382.83,12-03-2021,52
